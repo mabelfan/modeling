@@ -1,1 +1,1 @@
-Mechine learning and some modeling practices.
+Machine learning and some modeling practices.
