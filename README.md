@@ -1,1 +1,1 @@
-Study Meachine learning and do some modeling exercises.
+Machine learning and some modeling practices.
